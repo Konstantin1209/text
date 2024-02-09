@@ -1,0 +1,18 @@
+result.txt
+8
+Строка номер 1 файла номер result.txt
+result.txt
+Строка номер 2 файла номер result.txt
+38
+Строка номер 3 файла номер result.txt
+file1.txt
+Строка номер 4 файла номер result.txt
+8
+Строка номер 5 файла номер result.txt
+file3.txt
+Строка номер 6 файла номер result.txt
+8
+Строка номер 7 файла номер result.txt
+file2.txt
+Строка номер 8 файла номер result.txt
+1
